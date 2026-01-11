@@ -1,7 +1,7 @@
 #!/bin/bash
 source /home/rafael/RR2025/AI/GEMINI/functions.sh
 
-KEYS=("AIzaSyBehpUSCIlh2rdPElYlsJf51B4qVCmq0zA" "AIzaSyCyr5HX8LxIIgCVll8vLK2qI7JQx0rWPu4" "AIzaSyBfDAdYvlK3C6VsVBqR6v4bOSwwErSLY14" "AIzaSyCiMo5PqyS55To0prMEw-QsC6igN5lTM2w" "AIzaSyAC5AVrxIT0Wf4HkOCKnZsQaziKx5raWLM")
+KEYS=("KEY_1" "KEY_2" "KEY_3" "KEY_4" "KEY_5")
 MODELS=("gemini-3-flash-preview" "gemini-2.0-flash" "gemini-1.5-flash")
 LOG_DIR="/home/rafael/RR2025/AI/GEMINI"
 LAST_PROJ_FILE="$LOG_DIR/.last_project"
